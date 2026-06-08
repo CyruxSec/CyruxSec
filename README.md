@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## <samp>// About Me</samp>
+## <samp>| Who Am I |</samp>
 
 
 
