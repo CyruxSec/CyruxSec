@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
   <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=70&pause=2000&color=0088FF&center=true&vCenter=true&width=900&height=110&lines=.%3A%5BCyruxSec%5D%3A." alt="" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=20&pause=2000&color=0088FF&center=true&vCenter=true&width=900&height=110&lines=-+Offensive security researcher+-" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=21&pause=1000&color=0088FF&width=900&height=110&lines=-+Offensive+security+researcher+-" alt="" />
   
 </div>
