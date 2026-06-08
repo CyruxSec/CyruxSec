@@ -21,9 +21,8 @@ Here are some ideas to get you started:
   
   <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=20&center=true&vCenter=true&pause=2000&color=0088FF&width=900&height=110&lines=-+Offensive+security+researcher+-" alt="" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
-  <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1920px-Flag_of_Hong_Kong.svg.png" height="28" alt="Hong Kong" />
-    <img src="https://img.shields.io/badge/-HONG_KONG-red?style=for-the-badge" alt="Region" />
-  </p>
+  <img src="https://img.shields.io/badge/REGION-HONG_KONG-red?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+
+</div>
   
 </div>
