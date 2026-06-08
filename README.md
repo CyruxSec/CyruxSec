@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=20&center=true&vCenter=true&pause=2000&color=0088FF&width=900&height=110&lines=-+Offensive+security+researcher+-" alt="" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
 
-  <img src="https://komarev.com/ghpvc/?username=CyruxSec&label=Profile%20Visitors&color=8B0000&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CyruxSec&label=👁%20VISITORS&color=0088FF&style=for-the-badge" alt="profile views"/>
  <img src="https://img.shields.io/github/followers/CyruxSec?label=Followers&style=for-the-badge&color=0088FF&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/REGION-HONG_KONG-red?style=for-the-badge&logo=openstreetmap&logoColor=white" />
 
