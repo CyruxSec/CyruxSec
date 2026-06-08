@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-```ansi
+```bash
+┌──(cyruxsec㉿shadow)─[~]
+└─# whoami --verbose
 > Name           : James Bond
 > Signature      : CyruxSec
 > Specialization : Offensive Security Researcher
