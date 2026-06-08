@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 ## <samp>| Who Am I |</samp>
 
 ```bash
-┌──(cyruxsec㉿shadow)─[~]
-└─# whoami --verbose
 > Name           : James Bond
 > Signature      : CyruxSec
 > Specialization : Offensive Security Researcher
