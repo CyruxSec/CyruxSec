@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <!-- garis -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
+<!-- banner  -->
 
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=70&pause=1000&color=0088FF&width=900&height=110&lines=.%3A%5BCyruxSec%5D%3A." alt="" />
+  
   
 </div>
