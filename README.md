@@ -33,11 +33,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ```ansi
-
-
-> Subject        : James Bond
-> Signature      : CyruxSec
-> Specialization : Offensive Cyber Security
 > Scope          : Exploit Weaponization · Red Teaming
 > Zone           : Wan Chai District, Hong Kong Island
 ```
