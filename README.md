@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 ```ansi
+> Name           : James Bond
+> Signature      : CyruxSec
+> Specialization : Offensive Security Researcher
+> Team           : Hillusion Exploit ID - System Of Pekalongan
 > Scope          : Exploit Weaponization · Red Teaming
 > Zone           : Wan Chai District, Hong Kong Island
 ```
