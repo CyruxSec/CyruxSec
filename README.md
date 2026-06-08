@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **CyruxSec/CyruxSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
+
+  
+</div>
