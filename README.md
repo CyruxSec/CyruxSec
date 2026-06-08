@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   <img src="https://komarev.com/ghpvc/?username=CyruxSec&label=👁%20VISITORS&color=0088FF&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/CyruxSec?label=Followers&style=for-the-badge&color=0088FF&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REGION-HONG_KONG?style=for-the-badge&logo=openstreetmap&color=8B0000&logoColor=white" />  
+  <img src="https://img.shields.io/badge/REGION-HONG_KONG-8B0000?style=for-the-badge&logo=openstreetmap&logoColor=white" />  
 </div>
 
 ---
