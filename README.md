@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 ---
 ## <samp>| Who Am I |</samp>
 
-<div align="center">
-
 ```bash
 ┌──(cyruxsec㉿shadow)─[~]
 └─# whoami --verbose
@@ -43,6 +41,5 @@ Here are some ideas to get you started:
 > Zone           : Wan Chai District, Hong Kong Island
 ```
 
-</div>
 
 ---
