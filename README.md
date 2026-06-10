@@ -14,7 +14,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=CyruxSec&label=%F0%9F%91%81%20PROFILE%20VIEWS&style=for-the-badge&color=0088FF" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/CyruxSec?style=for-the-badge&label=Followers&color=0088ff&logo=github" />
-  <img src="https://img.shields.io/badge/REGION-HONG_KONG-8B0000?style=for-the-badge&logo=openstreetmap&logoColor=white" />  
+  <a href="https://maps.app.goo.gl/WJnpukpdxdpYRsfT7">
+    <img src="https://img.shields.io/badge/REGION-HONG_KONG-8B0000?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  </a>
 </div>
 
 ---
