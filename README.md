@@ -53,7 +53,7 @@ I enjoy exploring web application attack surfaces, studying vulnerable plugins a
 
 - Tracking and analyzing newly disclosed CVEs
 - Researching vulnerable WordPress plugins and themes
-- Building automation tools for security testing
+- Building automation tools
 - Improving vulnerability assessment workflows
 
 ---
