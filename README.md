@@ -73,7 +73,7 @@ I enjoy exploring web application attack surfaces, studying vulnerable plugins a
 <div align="center">
 
 ```diff
-- !!! The author shall not be held responsible for any misuse of the provided materials. !!!
+- [!!!] The author shall not be held responsible for any misuse of the provided materials.
 ```
 </div>
 
