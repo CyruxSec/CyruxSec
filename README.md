@@ -1,25 +1,15 @@
-<!--
-**CyruxSec/CyruxSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- THIS MY GITHUB PROFILE CYRUXSEC -->
 <div align="center">
   <!-- garis -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
 <!-- banner  -->
 
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=70&pause=1000&color=0088FF&center=true&vCenter=true&width=900&height=110&lines=.%3A%5BCyruxSec%5D%3A." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=70&pause=1000&color=0088FF&center=true&vCenter=true&width=900&height=90&lines=.:%5BCyruxSec%5D:." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=20&pause=1000&color=0088FF&center=true&vCenter=true&width=900&height=40&lines=-+Offensive+Security+Researcher+-" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=15&pause=1000&color=0088FF&center=true&vCenter=true&width=900&height=20&lines=Let's+Learn,+Play+%26+Exploit" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=20&center=true&vCenter=true&pause=2000&color=0088FF&width=900&height=110&lines=-+Offensive+security+researcher+-" alt="" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0088FF,100:000000&height=3&width=900&section=header" alt=""/>
 
   <img src="https://komarev.com/ghpvc/?username=CyruxSec&label=%F0%9F%91%81%20PROFILE%20VIEWS&style=for-the-badge&color=0088FF" alt="profile views"/>
@@ -28,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## <samp>| Who Am I |</samp>
+## | Who Am I |
 
 ```bash
 > Name           : James Bond
@@ -42,16 +32,58 @@ Here are some ideas to get you started:
 
 ---
 
+## | About Me |
+
+I am passionate about WordPress security research, vulnerability analysis, and offensive security tool development. My work primarily focuses on analyzing newly disclosed CVEs, understanding vulnerability mechanics, and developing tools that help reproduce and validate security issues in WordPress environments.
+
+I enjoy exploring web application attack surfaces, studying vulnerable plugins and themes, and transforming security research into practical solutions for testing and assessment.
 
 ---
-## <samp>| My Skils |</samp>
+
+## | My Skils |
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,php,java,html,kali,bash,mysql,git,wordpress&theme=dark" alt="" />
 
   
 </div>
 
+---
 
+## | Current Focus |
 
+- Tracking and analyzing newly disclosed CVEs
+- Researching vulnerable WordPress plugins and themes
+- Building automation tools for security testing
+- Improving vulnerability assessment workflows
 
 ---
+## | Channels |
+<a href="https://t.me/CyruxSec">
+  <img src="https://img.shields.io/badge/Telegram-@CyruxSec-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="" />
+</a>
+<a href="https://t.me/TwoPeople1337">
+  <img src="https://img.shields.io/badge/Telegram-@TwoPeople1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="" />
+</a>
+
+
+
+
+## | ⚠️ Disclaimer |
+
+<div align="center">
+
+```diff
+- !!! The author shall not be held responsible for any misuse of the provided materials. !!!
+```
+</div>
+
+---
+
+<div align="center">
+
+⚡ Security Research • WordPress Exploitation • Tool Development ⚡
+
+© 2026 **CyruxSec**. All Rights Reserved.
+
+</div>
+
