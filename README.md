@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 ## <samp>| My Skils |</samp>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,java,html,kali,bash,mysql,git,wordpress&theme=dark" alt="" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,html,kali,bash,mysql,git,wordpress&theme=light" alt="" />
 
   
 </div>
