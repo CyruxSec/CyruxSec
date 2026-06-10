@@ -40,7 +40,7 @@ I enjoy exploring web application attack surfaces, studying vulnerable plugins a
 
 ---
 
-## | My Skils |
+## | Skils |
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,php,java,html,kali,bash,mysql,git,wordpress&theme=dark" alt="" />
 
