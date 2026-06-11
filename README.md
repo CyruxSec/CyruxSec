@@ -44,7 +44,7 @@ I enjoy exploring web application attack surfaces, studying vulnerable plugins a
 
 ## | Skills |
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=,linux,python,php,java,html,bash,mysql,git,wordpress&theme=dark" alt="" />
+  <img src="https://skillicons.dev/icons?i=linux,python,php,java,html,bash,mysql,git,wordpress&theme=dark" alt="" />
 
   
 </div>
